@@ -965,6 +965,13 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
+"@grapoza/vue-tree@^4.0.3":
+  version "4.0.3"
+  resolved "https://registry.npmmirror.com/@grapoza/vue-tree/-/vue-tree-4.0.3.tgz#98d31f93e5457c28e406d8e9eea5a3c25ad5396f"
+  integrity sha512-KP1UGkO6VlGbuJSiCj7D7JirAh67HFPwOj+C7Db9otzQvym9q3kbfR/paGGTJ+LHN7g4NPOp6veDFo3+J+TuFw==
+  dependencies:
+    vue "^3.2.6"
+
 "@hapi/hoek@^9.0.0":
   version "9.3.0"
   resolved "https://registry.npmmirror.com/@hapi/hoek/-/hoek-9.3.0.tgz#8368869dcb735be2e7f5cb7647de78e167a251fb"
@@ -6598,7 +6605,7 @@ vue-template-es2015-compiler@^1.9.0:
   resolved "https://registry.npmmirror.com/vue-template-es2015-compiler/-/vue-template-es2015-compiler-1.9.1.tgz#1ee3bc9a16ecbf5118be334bb15f9c46f82f5825"
   integrity sha512-4gDntzrifFnCEvyoO8PqyJDmguXgVPxKiIxrBKjIowvL9l+N66196+72XVYR8BBf1Uv1Fgt3bGevJ+sEmxfZzw==
 
-vue@^3.2.13:
+vue@^3.2.13, vue@^3.2.6:
   version "3.2.37"
   resolved "https://registry.npmmirror.com/vue/-/vue-3.2.37.tgz#da220ccb618d78579d25b06c7c21498ca4e5452e"
   integrity sha512-bOKEZxrm8Eh+fveCqS1/NkG/n6aMidsI6hahas7pa0w/l7jkbssJVsRhVDs07IdDq7h9KHswZOgItnwJAgtVtQ==
